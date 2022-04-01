@@ -1,0 +1,21 @@
+.banner {
+	background-image: url(images/banner.jpg);
+	height: 70vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    align-items: center;
+}
+
+.banner h1 {
+	color: white;
+	size: 40px;
+	text-shadow: 1px 1px 1px #000000c9;
+}
+.banner h2 { 
+	color: white;
+	text-shadow: 1px 1px 1px #000000c9;
+
+}
